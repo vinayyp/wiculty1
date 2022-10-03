@@ -1,5 +1,5 @@
 
-it will be testing all the lines and it will display the result soon
+it will be testing
 
 thank you at wiculty
 
